@@ -1,0 +1,33 @@
+[
+    {
+        "title":"Gohar",
+        "artist":"Gohar Ijaz",
+        "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "thumbnail_image":"https://images.pexels.com/photos/12528815/pexels-photo-12528815.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+        "title":"Nouman",
+        "artist":"NOUMAN IJAZ",
+        "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "thumbnail_image":"https://images.pexels.com/photos/6918619/pexels-photo-6918619.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+        "title":"Samad",
+        "artist":"Samad khan",
+        "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "thumbnail_image":"https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title":"Chinko",
+        "artist":"Chinko Lala",
+        "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "thumbnail_image":"https://images.pexels.com/photos/64296/pexels-photo-64296.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title":"Chinko",
+        "artist":"Chinko Lala",
+        "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "thumbnail_image":"https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    
+]
