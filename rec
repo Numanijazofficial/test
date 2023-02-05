@@ -1,0 +1,14 @@
+[
+    {
+        title:"Gohar",
+        artist:"Gohar Ijaz",
+        image:"../assets/img/image.png",
+        thumbnail_image:"../assets/img/thumbnail.png"
+    },
+    {
+        title:"Nouman",
+        artist:"NOUMAN IJAZ",
+        image:"../assets/img/image.png",
+        thumbnail_image:"../assets/img/thumbnail.png"
+    }
+]
