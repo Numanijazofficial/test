@@ -2,32 +2,32 @@
     {
         "title":"Gohar",
         "artist":"Gohar Ijaz",
-        "images":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-        "thumbnail_image":"https://images.pexels.com/photos/12528815/pexels-photo-12528815.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        "images":"https://images.pexels.com/photos/12528815/pexels-photo-12528815.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "thumbnail_image":"https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "title":"Nouman",
         "artist":"NOUMAN IJAZ",
-        "images":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-        "thumbnail_image":"https://images.pexels.com/photos/6918619/pexels-photo-6918619.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        "images":"https://images.pexels.com/photos/6918619/pexels-photo-6918619.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "thumbnail_image":"https://images.unsplash.com/photo-1523419409543-a5e549c1faa8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hbGUlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "title":"Samad",
         "artist":"Samad khan",
-        "images":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-        "thumbnail_image":"https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "images":"https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "thumbnail_image":"https://images.unsplash.com/photo-1596502059330-be10388e3ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1hbGUlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "title":"Chinko",
         "artist":"Chinko Lala",
-        "images":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-        "thumbnail_image":"https://images.pexels.com/photos/64296/pexels-photo-64296.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "images":"https://images.pexels.com/photos/64296/pexels-photo-64296.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "thumbnail_image":"https://images.unsplash.com/photo-1583864697784-a0efc8379f70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "title":"Chinto",
         "artist":"Chinko Khan",
-        "images":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-        "thumbnail_image":"https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "images":"https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "thumbnail_image":"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     }
     
 ]
