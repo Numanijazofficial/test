@@ -2,30 +2,35 @@
     {
         "title":"Gohar",
         "artist":"Gohar Ijaz",
+        "quotes":"And I’d choose you, in a hundred lifetimes, in a hundred worlds, in any version of reality, I’d find you and I’d choose you.",
         "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "thumbnail_image":"https://images.pexels.com/photos/12528815/pexels-photo-12528815.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     },
     {
         "title":"Nouman",
-        "artist":"NOUMAN IJAZ",
+        "artist":"Nouman Ijaz",
+        "quotes":"You are that one breath, that puts all the remaining breaths back into my body.",
         "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "thumbnail_image":"https://images.pexels.com/photos/6918619/pexels-photo-6918619.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     },
     {
-        "title":"Samad",
-        "artist":"Samad khan",
+        "title":"Shinko",
+        "artist":"Shinko Lala",
+        "quotes":"I still have that feeling the first time we met every time I see you",
         "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "thumbnail_image":"https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
-        "title":"Chinko",
-        "artist":"Chinko Lala",
+        "title":"Chinto",
+        "artist":"Chinto Lala",
         "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "quotes":"My love for you will always be like a mountain stream. Quiet. Persistent. Continuous.",
         "thumbnail_image":"https://images.pexels.com/photos/64296/pexels-photo-64296.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         "title":"Chinko",
         "artist":"Chinko Lala",
+        "quotes":"I want to be in love with you the same way I am in love with the moon with the light shining out of its soul.",
         "image":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "thumbnail_image":"https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
